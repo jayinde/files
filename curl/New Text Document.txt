@@ -1,0 +1,7 @@
+curl -D- -u fred:fred -X GET -H "Content-Type: application/json" http://kelpie9:8081/rest/api/2/issue/createmeta
+
+
+curl -D- -u ayindej:#2Education -X GET -H "Content-Type: application/json" https://jira.innovation-hosting.com/rest/api/2/search?jql=assignee=ayindej
+
+jira.innovation-hosting.com/secure/Dashboard.jspa
+
